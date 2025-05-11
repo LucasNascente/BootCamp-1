@@ -1,2 +1,14 @@
-Olá, me chamo lucas, curso ciencias da computaçao na faculdadade UniCeub
-Pratico esportes como musculaçao e Voleibol
+Ola eu sou o Lucas, estudante de ciencias da computação no UniCeub, e esse é o meu Portfólio de Projetos
+
+Este repositório reúne meus projetos acadêmicos e pessoais, e minha documenteção profissional 
+
+📁 Projetos Acadêmicos
+Projetos desenvolvidos durante cursos e atividades acadêmicas.
+
+📁 Projetos Pessoais
+Projetos criados por interesse pessoal, estudos ou desafios.
+
+📄 Documentação
+Textos, planejamentos e anotações relevantes sobre os projetos.
+
+ | Professor Marcelo Carboni Gomes | Bootcamp I - 2025
