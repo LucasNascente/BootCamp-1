@@ -11,4 +11,4 @@ Projetos criados por interesse pessoal, estudos ou desafios.
 📄 Documentação
 Textos, planejamentos e anotações relevantes sobre os projetos.
 
- | Professor Marcelo Carboni Gomes | Bootcamp I - 2025
+
